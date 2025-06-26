@@ -1,5 +1,5 @@
 package Tracking_test;
-
+///prime no from 1 to 100
 public class question_15 {
     public static void main(String[] args) {
         int i, num, count;

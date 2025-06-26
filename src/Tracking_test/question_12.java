@@ -1,5 +1,5 @@
 package Tracking_test;
-
+//factorial using while
 import java.util.Scanner;
 
 public class question_12 {

@@ -1,5 +1,5 @@
 package Tracking_test;
-
+//* pattern
 public class question_14 {
     public static void main(String[] args) {
         int i, j;
